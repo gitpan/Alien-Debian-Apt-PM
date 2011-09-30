@@ -17,9 +17,9 @@ name: Alien-Debian-Apt-PM
 provides:
   Alien::Debian::Apt::PM:
     file: lib/Alien/Debian/Apt/PM.pm
-    version: 0.02
+    version: 0.03
 resources:
   bugtracker: http://github.com/jozef/Alien-Debian-Apt-PM/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/jozef/Alien-Debian-Apt-PM/
-version: 0.02
+version: 0.03
